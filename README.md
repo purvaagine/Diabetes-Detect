@@ -1,8 +1,3 @@
-
-Here’s the markdown version of the README for the Diabetes Prediction System, formatted consistently with #, *, and similar markdown elements. You can directly copy and paste this:
-
-markdown
-Copy code
 # Diabetes Prediction System
 
 ## Overview
